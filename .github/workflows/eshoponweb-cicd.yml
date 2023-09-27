@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-BlubbyDevops
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 24b0a091-8c50-400f-9788-6f8b26aa860d
   WEBAPP-NAME: az400-webapp-BlubbyDevops
 
 
